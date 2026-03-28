@@ -1,0 +1,16 @@
+﻿Stay Safe Online
+
+
+1. Always use strong and unique passwords for all accounts (avoid using the same password everywhere).
+2. Enable two-factor authentication on email, banking, and social media accounts.
+3. Always verify website URLs before entering personal or login details.
+4. Keep your mobile apps and system updated to avoid security vulnerabilities.
+5. Avoid using public Wi-Fi for banking or sensitive transactions.
+6. Never share OTP or passwords with anyone, even if they claim to be from the bank.
+7. Do not click on suspicious links received through SMS, email, or WhatsApp.
+8.  Do not approve unknown UPI collect requests (Pay requests).
+9. Do not scan random QR codes to receive money (you only scan to pay).
+10. Immediately block your bank account or UPI if you suspect fraud.
+
+• Report at: https://cybercrime.gov.in
+• Helpline No: 1930
